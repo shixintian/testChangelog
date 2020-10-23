@@ -1,14 +1,16 @@
 {
   "name": "testchangelog",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "standard-version": "^9.0.0",
     "validate-commit-msg": "^2.14.0",
     "yorkie": "^2.0.0"
   },
