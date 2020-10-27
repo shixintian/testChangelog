@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0-alpha.3](///compare/v1.2.0-alpha.2...v1.2.0-alpha.3) (2020-10-27)
+
+
+### Features
+
+* master build 098be67
+
 ## [1.2.0-alpha.2](///compare/v1.2.0-alpha.1...v1.2.0-alpha.2) (2020-10-27)
 
 ## [1.2.0-alpha.1](///compare/v1.2.0-alpha.0...v1.2.0-alpha.1) (2020-10-27)
